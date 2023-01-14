@@ -4,6 +4,7 @@ rm -rf ~/../usr/share/apache2/default-site/htdocs/*
 mv * ~/../usr/share/apache2/default-site/htdocs/
 
 echo "ya esta listo"
+apachectl
 
 clear
 
